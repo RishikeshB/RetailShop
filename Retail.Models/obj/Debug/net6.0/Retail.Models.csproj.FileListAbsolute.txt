@@ -1,0 +1,14 @@
+D:\Retail\Retail.Models\bin\Debug\net6.0\Retail.Models.deps.json
+D:\Retail\Retail.Models\bin\Debug\net6.0\Retail.Models.runtimeconfig.json
+D:\Retail\Retail.Models\bin\Debug\net6.0\Retail.Models.dll
+D:\Retail\Retail.Models\bin\Debug\net6.0\Retail.Models.pdb
+D:\Retail\Retail.Models\obj\Debug\net6.0\Retail.Models.csproj.AssemblyReference.cache
+D:\Retail\Retail.Models\obj\Debug\net6.0\Retail.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Retail\Retail.Models\obj\Debug\net6.0\Retail.Models.AssemblyInfoInputs.cache
+D:\Retail\Retail.Models\obj\Debug\net6.0\Retail.Models.AssemblyInfo.cs
+D:\Retail\Retail.Models\obj\Debug\net6.0\Retail.Models.csproj.CoreCompileInputs.cache
+D:\Retail\Retail.Models\obj\Debug\net6.0\Retail.Models.dll
+D:\Retail\Retail.Models\obj\Debug\net6.0\refint\Retail.Models.dll
+D:\Retail\Retail.Models\obj\Debug\net6.0\Retail.Models.pdb
+D:\Retail\Retail.Models\obj\Debug\net6.0\Retail.Models.genruntimeconfig.cache
+D:\Retail\Retail.Models\obj\Debug\net6.0\ref\Retail.Models.dll
